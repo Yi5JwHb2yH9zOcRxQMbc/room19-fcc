@@ -1,2 +1,4 @@
 # room19-fcc
-FreeCodeCamp projects
+Projects from FreeCodeCamp.
+
+1. Tribute page. 
